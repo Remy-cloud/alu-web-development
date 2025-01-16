@@ -1,1 +1,1 @@
-readme file for html advanced project
+In this and coming projects, you will implement from scratch a webpage from a designer file.

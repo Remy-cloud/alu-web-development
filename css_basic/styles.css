@@ -1,5 +1,6 @@
 body, main {
     display: flex;
+    background-color:lavenderblush;
 }
 body{
     flex-direction: column;
